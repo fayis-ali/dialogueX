@@ -31,3 +31,10 @@ Translation: Google Translate API / Transformers
 Text-to-Speech (TTS): gTTS or pyttsx3
 
 Sign Language Recognition: TensorFlow / OpenCV / MediaPipe
+
+# Core Objectives
+Eliminate language barriers in real-time communication
+
+Include participants with hearing/speech disabilities
+
+Support multilingual collaboration in education, business, and healthcare
